@@ -1,0 +1,14 @@
+{
+    "name": "simpleFixes",
+    "name_pretty": "Simple Fixes",
+    "namespace": "carlosfruitcup",
+    "version_number": "1.0.0",
+    "description": "Fixes a couple of Bugs found due to Custom Maps",
+    "dependencies": [],
+    "incompatibilities": [],
+    "authors": ["carlosfruitcup"],
+    "tags": ["bug_fix"],
+    "description_rich": "Fixes a couple of Bugs found due to Custom Maps",
+    "download": "",
+    "repo": ""
+}

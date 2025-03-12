@@ -1,0 +1,14 @@
+{
+    "name": "skipSplash",
+    "name_pretty": "Skip Splash",
+    "namespace": "carlosfruitcup",
+    "version_number": "1.0.0",
+    "description": "skips the splash and warning screen",
+    "dependencies": [],
+    "incompatibilities": [],
+    "authors": ["carlosfruitcup"],
+    "tags": ["helper"],
+    "description_rich": "skips the 2nd 'fake' splash and warning screen",
+    "download": "",
+    "repo": ""
+}

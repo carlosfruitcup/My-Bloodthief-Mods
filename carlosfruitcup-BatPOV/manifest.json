@@ -1,0 +1,14 @@
+{
+    "name": "batPOV",
+    "name_pretty": "Bat POV",
+    "namespace": "carlosfruitcup",
+    "version_number": "1.0.0",
+    "description": "Lets you view the Ghost/Bat's POV",
+    "dependencies": [],
+    "incompatibilities": [],
+    "authors": ["carlosfruitcup"],
+    "tags": ["Misc."],
+    "description_rich": "Lets you toggle view the Ghost/Bat's POV with TAB",
+    "download": "",
+    "repo": ""
+}

@@ -1,0 +1,14 @@
+{
+    "name": "comboMeter",
+    "name_pretty": "Combo Meter",
+    "namespace": "carlosfruitcup",
+    "version_number": "1.0.0",
+    "description": "adds a combo meter",
+    "dependencies": [],
+    "incompatibilities": [],
+    "authors": ["carlosfruitcup"],
+    "tags": ["helper"],
+    "description_rich": "adds a combo meter",
+    "download": "",
+    "repo": ""
+}
